@@ -1,7 +1,7 @@
 # Murum
 
 <p align="center">
-  <img src="https://phucdm2012.github.io/Murum/logo.png" alt="Murum Logo" width="180">
+  <img src="logo.png" alt="Murum Logo" width="180">
 </p>
 
 <p align="center">
