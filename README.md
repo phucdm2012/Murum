@@ -1,10 +1,8 @@
 # Murum
 
 <p align="center">
-  <img src="logo.png" alt="Murum Logo" width="180">
+  <img src="https://phucdm2012.github.io/Murum/logo.png" alt="Murum Logo" width="180">
 </p>
-
-<h1 align="center">Murum</h1>
 
 <p align="center">
   An open-source music platform.
