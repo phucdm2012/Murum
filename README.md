@@ -29,6 +29,7 @@
 
 ## 🚀 Roadmap
 
+- [x] UI
 - [ ] Music Player
 - [ ] Artist Center
 - [ ] Plugin API
